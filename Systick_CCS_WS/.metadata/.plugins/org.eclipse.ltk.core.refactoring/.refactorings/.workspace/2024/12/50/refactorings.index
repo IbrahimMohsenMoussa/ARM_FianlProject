@@ -1,3 +1,4 @@
 1734078839441	Rename resource 'NVIC'
 1734080448375	Delete resource 'Systick/Systick'
 1734080567268	Delete resource 'Systick/Sytick.h'
+1734090045265	Delete resource 'Systick/tm4c123gh6pm_registers.h'
